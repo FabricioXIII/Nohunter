@@ -44,6 +44,7 @@
     h2 {
         text-align: justify;
         text-align: center;
+        margin-bottom: 10px;
 
         
     }
@@ -51,6 +52,7 @@
     nav {
     padding: 10px;
     text-align: center;
+    margin-bottom: 10px;
     }
 
     iframe {
@@ -86,6 +88,8 @@
         max-width: 100%;
         height: auto;
         margin-bottom: 15px;
+        border-radius: 15px;
+        box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.623);
     }
 
         table {

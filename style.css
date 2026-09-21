@@ -13,7 +13,7 @@
     }
  
     body{
-        background-color: rgb(247, 2, 2);
+        background-color: rgb(196, 86, 86);
         background-image: url(img/FUNDOMALDITO.jpg);
         margin: auto;
         background-repeat: no-repeat;
@@ -90,6 +90,9 @@
         margin-bottom: 15px;
         border-radius: 15px;
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.623);
+    }
+    li{
+        padding-bottom: 15px;
     }
 
         table {
